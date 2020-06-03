@@ -1,3 +1,6 @@
+/*
+* Based on Google camera example (https://github.com/googlearchive/android-Camera2Basic), added some codes to implement zoom in/zoom out functions in this file.
+*/
 package com.example.android.camera2video;
 
 import android.app.Activity;
