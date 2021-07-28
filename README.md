@@ -1,5 +1,7 @@
 # SeeThrough
 
+- If you have any questions/comments, please visit [**Pico Developer Answers**](https://devanswers.pico-interactive.com/) and raise your question there.
+
 ## Introduction
 This demo shows how to access the front camera on Pico G2 Pro & Pico 4K Enterprise in Android project. The sample codes demenstrate how to use the front camera on a Pico VR device to see through the outside real world. Note that this demo doesn't work on Pico Neo 2. 
 
